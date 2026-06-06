@@ -5,7 +5,7 @@ This is my **first Power BI project** where I created an interactive dashboard t
 ---
 
 ## 📌 Objective  
-The owner of **Madhav Store** wanted a dashboard to track and analyze their **online sales performance** across:  
+The owner of **Vivek Store** wanted a dashboard to track and analyze their **online sales performance** across:  
 - Different states  
 - Product categories & subcategories  
 - Payment modes  
